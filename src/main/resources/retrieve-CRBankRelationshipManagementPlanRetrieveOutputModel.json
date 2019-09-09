@@ -1,0 +1,24 @@
+{
+  "bankRelationshipManagementPlanRetrieveActionResponse" : "bankRelationshipManagementPlanRetrieveActionResponse",
+  "bankRelationshipManagementPlanRetrieveActionTaskReference" : "BRMPRATR743957",
+  "bankRelationshipManagementPlanInstanceRecord" : {
+    "bankContactDetails" : "bankContactDetails",
+    "bankDetails" : "bankDetails",
+    "employeeBusinessUnitReference" : "741539",
+    "bankRelationshipType" : "bankRelationshipType",
+    "bankRelationshipBudget" : "bankRelationshipBudget",
+    "bankReference" : "740792",
+    "bankRelationshipDescription" : "bankRelationshipDescription"
+  },
+  "bankRelationshipManagementPlanInstanceReportRecord" : {
+    "bankRelationshipManagementPlanInstanceReport" : {},
+    "bankRelationshipManagementPlanInstanceReportType" : "bankRelationshipManagementPlanInstanceReportType",
+    "bankRelationshipManagementPlanInstanceReportData" : "bankRelationshipManagementPlanInstanceReportData"
+  },
+  "bankRelationshipManagementPlanRetrieveActionTaskRecord" : {},
+  "bankRelationshipManagementPlanInstanceAnalysis" : {
+    "bankRelationshipManagementPlanInstanceAnalysisData" : "bankRelationshipManagementPlanInstanceAnalysisData",
+    "bankRelationshipManagementPlanInstanceAnalysisReportType" : "bankRelationshipManagementPlanInstanceAnalysisReportType",
+    "bankRelationshipManagementPlanInstanceAnalysisReport" : {}
+  }
+}

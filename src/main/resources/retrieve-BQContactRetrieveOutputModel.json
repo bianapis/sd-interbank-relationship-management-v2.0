@@ -1,0 +1,28 @@
+{
+  "contactRetrieveActionTaskRecord" : {},
+  "contactRetrieveActionTaskReference" : "CRATR772047",
+  "contactInstanceAnalysis" : {
+    "contactInstanceAnalysisParameters" : "contactInstanceAnalysisParameters",
+    "contactInstanceAnalysisRecord" : {},
+    "contactInstanceAnalysisReportType" : "contactInstanceAnalysisReportType",
+    "contactInstanceAnalysisReport" : {}
+  },
+  "contactRetrieveActionResponse" : "contactRetrieveActionResponse",
+  "contactInstanceRecord" : {
+    "bankRelationshipContactSchedule" : "bankRelationshipContactSchedule",
+    "bankRelationshipContactRecord" : {
+      "bankRelationshipContactDate" : "09-22-2018",
+      "employeeReference" : "717560",
+      "bankRelationshipContactResult" : "bankRelationshipContactResult",
+      "bankRelationshipContactType" : "bankRelationshipContactType",
+      "documentDirectoryEntryInstanceReference" : "739759"
+    },
+    "bankRelationshipContactHistory" : "bankRelationshipContactHistory"
+  },
+  "contactInstanceReport" : {
+    "contactInstanceReportType" : "contactInstanceReportType",
+    "contactInstanceReportParameters" : "contactInstanceReportParameters",
+    "contactInstanceReportRecord" : {},
+    "contactInstanceReport" : {}
+  }
+}

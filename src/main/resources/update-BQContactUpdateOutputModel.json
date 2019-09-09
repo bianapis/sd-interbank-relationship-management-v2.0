@@ -1,0 +1,14 @@
+{
+  "contactUpdateActionTaskReference" : "CUATR759621",
+  "updateResponseRecord" : {},
+  "contactInstanceRecord" : {
+    "bankRelationshipContactRecord" : {
+      "bankRelationshipContactDate" : "09-22-2018",
+      "employeeReference" : "734740",
+      "bankRelationshipContactResult" : "bankRelationshipContactResult",
+      "bankRelationshipContactType" : "bankRelationshipContactType",
+      "documentDirectoryEntryInstanceReference" : "757904"
+    }
+  },
+  "contactUpdateActionTaskRecord" : {}
+}

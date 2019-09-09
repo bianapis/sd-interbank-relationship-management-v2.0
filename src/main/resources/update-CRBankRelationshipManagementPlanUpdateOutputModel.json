@@ -1,0 +1,14 @@
+{
+  "bankRelationshipManagementPlanInstanceRecord" : {
+    "bankContactDetails" : "bankContactDetails",
+    "bankDetails" : "bankDetails",
+    "employeeBusinessUnitReference" : "713636",
+    "bankRelationshipType" : "bankRelationshipType",
+    "bankRelationshipBudget" : "bankRelationshipBudget",
+    "bankReference" : "729176",
+    "bankRelationshipDescription" : "bankRelationshipDescription"
+  },
+  "updateResponseRecord" : {},
+  "bankRelationshipManagementPlanUpdateActionTaskReference" : "BRMPUATR782565",
+  "bankRelationshipManagementPlanUpdateActionTaskRecord" : {}
+}

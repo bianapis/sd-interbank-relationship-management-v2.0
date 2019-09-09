@@ -1,0 +1,13 @@
+{
+  "requestRecordReference" : "RRR791921",
+  "bankRelationshipManagementPlanRequestActionTaskReference" : "BRMPRATR789360",
+  "bankRelationshipManagementPlanInstanceRecord" : {
+    "bankContactDetails" : "bankContactDetails",
+    "employeeBusinessUnitReference" : "790652",
+    "bankRelationshipType" : "bankRelationshipType",
+    "bankRelationshipBudget" : "bankRelationshipBudget",
+    "bankRelationshipDescription" : "bankRelationshipDescription"
+  },
+  "bankRelationshipManagementPlanRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {}
+}
